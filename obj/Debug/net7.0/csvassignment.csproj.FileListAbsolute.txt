@@ -1,0 +1,17 @@
+D:\5510 Assignments\C#\csvassignment\bin\Debug\net7.0\csvassignment.exe
+D:\5510 Assignments\C#\csvassignment\bin\Debug\net7.0\csvassignment.deps.json
+D:\5510 Assignments\C#\csvassignment\bin\Debug\net7.0\csvassignment.runtimeconfig.json
+D:\5510 Assignments\C#\csvassignment\bin\Debug\net7.0\csvassignment.dll
+D:\5510 Assignments\C#\csvassignment\bin\Debug\net7.0\csvassignment.pdb
+D:\5510 Assignments\C#\csvassignment\bin\Debug\net7.0\CsvHelper.dll
+D:\5510 Assignments\C#\csvassignment\obj\Debug\net7.0\csvassignment.csproj.AssemblyReference.cache
+D:\5510 Assignments\C#\csvassignment\obj\Debug\net7.0\csvassignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\5510 Assignments\C#\csvassignment\obj\Debug\net7.0\csvassignment.AssemblyInfoInputs.cache
+D:\5510 Assignments\C#\csvassignment\obj\Debug\net7.0\csvassignment.AssemblyInfo.cs
+D:\5510 Assignments\C#\csvassignment\obj\Debug\net7.0\csvassignment.csproj.CoreCompileInputs.cache
+D:\5510 Assignments\C#\csvassignment\obj\Debug\net7.0\csvassignment.csproj.CopyComplete
+D:\5510 Assignments\C#\csvassignment\obj\Debug\net7.0\csvassignment.dll
+D:\5510 Assignments\C#\csvassignment\obj\Debug\net7.0\refint\csvassignment.dll
+D:\5510 Assignments\C#\csvassignment\obj\Debug\net7.0\csvassignment.pdb
+D:\5510 Assignments\C#\csvassignment\obj\Debug\net7.0\csvassignment.genruntimeconfig.cache
+D:\5510 Assignments\C#\csvassignment\obj\Debug\net7.0\ref\csvassignment.dll
